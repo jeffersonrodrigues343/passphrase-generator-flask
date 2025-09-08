@@ -16,7 +16,7 @@ Este é um simples gerador de passphrase baseado e palavras, contruído com micr
 
 ## Como Rodar o Projeto localmente?
 1. **Clone o repositório :**
-         ```bash
+    ```bash
     git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
     ```
     

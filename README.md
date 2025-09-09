@@ -40,7 +40,7 @@ Este é um simples gerador de passphrase baseado e palavras, contruído com micr
     ```bash
     python3 app.py
     
-6. Abra o http gerado no seu bash e a aplicação estará funcional.
+6. Abra o link gerado no seu terminal via navegador.
   
   
     
